@@ -19,4 +19,4 @@
 # ----- 아래부터 실제 데이터 -----
 신고이메일: daejeon.subway@gmail.com
 중간종착역: 정부청사
-접속자수주소:
+접속자수주소: https://drj2012.cafe24.com/count_subway.jsp
